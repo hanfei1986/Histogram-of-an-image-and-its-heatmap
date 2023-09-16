@@ -1,4 +1,5 @@
 # Histogram-of-a-image-and-its-heatmap
+A histogram of an image provides valuable insights into the distribution of pixel intensities within that image. This notebook gives a brief about how to plot the histogram. Furtherly, we can replot the picture with a heatmap based on its pixel intensities.
 
 Raw picture:
 
