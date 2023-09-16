@@ -9,7 +9,7 @@ Histogram:
 
 ![image](https://github.com/hanfei1986/Histogram-of-a-image-and-its-heatmap/assets/59255164/057abd02-5113-41a9-8523-8df1b7385494)
 
-Devide the image into sub-regions:
+Divide the image into sub-regions:
 
 ![image](https://github.com/hanfei1986/Histogram-of-a-image-and-its-heatmap/assets/59255164/b029bc2c-9a20-4e29-8832-637f60505a81)
 
