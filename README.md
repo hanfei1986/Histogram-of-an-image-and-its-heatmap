@@ -13,6 +13,6 @@ Divide the image into sub-regions:
 
 ![image](https://github.com/hanfei1986/Histogram-of-a-image-and-its-heatmap/assets/59255164/b029bc2c-9a20-4e29-8832-637f60505a81)
 
-Heat map based on the mean pixel values in the sub-regions:
+Heat map based on the mean pixel values of the sub-regions:
 
 ![image](https://github.com/hanfei1986/Histogram-of-a-image-and-its-heatmap/assets/59255164/66ea1ba2-ac67-4702-bf53-b64b542234f0)
